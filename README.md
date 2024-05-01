@@ -1,0 +1,2 @@
+# HangMan
+ c++ hangman game
